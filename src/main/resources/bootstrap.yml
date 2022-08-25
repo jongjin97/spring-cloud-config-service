@@ -1,0 +1,7 @@
+encrypt:
+  key-store:
+#    location: file:///${user.home}/IdeaProjects/msa/keystore/apiEncryptionKey.jks
+    password: 123qwe
+    alias: apiEncryptionKey
+    location: file:/apiEncryptionKey.jks
+#  key: abcdefghijklmnopqrstuvwxyz0123456789
